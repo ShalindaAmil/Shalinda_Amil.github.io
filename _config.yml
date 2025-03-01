@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.png"
   name             : "Shalinda Amil Lakmal"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer | Machine Learning | Data Scientist"
-  location         : "Earth"
-  employer         : #"Red Brick Univers"
+  location         : #"Earth"
+  employer         : "Undergraduate Student "
   uri              : # URL
   email            : "shalindaamil22@gmail.com" 
 
